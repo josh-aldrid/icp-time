@@ -1,4 +1,4 @@
 [workspace]
 members = [
-    "src/my_timers_backend",
+    "src/my_timers_backend"
 ]
